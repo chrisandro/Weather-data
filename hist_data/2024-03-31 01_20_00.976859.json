@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 9.1896,
+        "lat": 45.4642
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 283.83,
+        "feels_like": 283.43,
+        "temp_min": 281.88,
+        "temp_max": 285.59,
+        "pressure": 1005,
+        "humidity": 95
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.09,
+        "deg": 20
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1711844400,
+    "sys": {
+        "type": 2,
+        "id": 2012644,
+        "country": "IT",
+        "sunrise": 1711861488,
+        "sunset": 1711907371
+    },
+    "timezone": 3600,
+    "id": 3173435,
+    "name": "Milan",
+    "cod": 200
+}

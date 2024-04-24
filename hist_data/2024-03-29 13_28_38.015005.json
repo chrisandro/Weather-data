@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 9.1896,
+        "lat": 45.4642
+    },
+    "weather": [
+        {
+            "id": 701,
+            "main": "Mist",
+            "description": "mist",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 283.82,
+        "feels_like": 283.29,
+        "temp_min": 281.33,
+        "temp_max": 285.5,
+        "pressure": 1011,
+        "humidity": 90
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 110
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1711714980,
+    "sys": {
+        "type": 2,
+        "id": 2012644,
+        "country": "IT",
+        "sunrise": 1711688917,
+        "sunset": 1711734417
+    },
+    "timezone": 3600,
+    "id": 3173435,
+    "name": "Milan",
+    "cod": 200
+}
